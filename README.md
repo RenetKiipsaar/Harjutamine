@@ -1,2 +1,0 @@
-# Harjutamine
-versioonihaldusega harjutamine GitHubis

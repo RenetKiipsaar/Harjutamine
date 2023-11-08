@@ -1,2 +1,7 @@
 Github on veebipõhine platvorm, mis pakub versioonihalduse ja koodihalduse teenuseid.
 See on populaarne arendajate, programeerijate ja tarkvaraettevõtete seas.
+
+Mina kasutan Githubi skriptimiseks nii koolis kui ka tulevikus tööl olles.
+Github Inc. asustati 2008. aastal. Asutasid Tom Preston-Werner, Chris Wanstrath ja PJ Hyett. Alguses oli github piiratud kutselise juurdepääsuga, aga 2008. aasta aprillis muudeti see kõigile kättesaadavaks.
+
+
