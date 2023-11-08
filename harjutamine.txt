@@ -1,1 +1,3 @@
-
+Github on veebipõhine platvorm, mis pakub versioonihalduse ja koodihalduse teenuseid.
+See on populaarne arendajate, programeerijate ja tarkvaraettevõtete seas.
+Mina kasutan Githubi skriptimiseks nii koolis kui ka tulevikus tööl olles.
