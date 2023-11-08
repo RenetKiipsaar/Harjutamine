@@ -1,1 +1,2 @@
-
+Github on veebipõhine platvorm, mis pakub versioonihalduse ja koodihalduse teenuseid.
+See on populaarne arendajate, programeerijate ja tarkvaraettevõtete seas.
